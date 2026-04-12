@@ -1,0 +1,14 @@
+BH1750 GY30 modul snímača intenzity svetla
+DHT11 senzor teploty a vlhkosti (3.3–5.5 V)
+OLED displej 0.96" I2C SSD1306 (128×64, modrý)
+NodeMCU ESP32 (WiFi + Bluetooth)
+UPS 18650 battery shield v8 (pre 2P konfiguráciu)
+18650 batéria TENPOWER INR18650-32HE 3100mAh 10A (2 ks)
+Malá vodná pumpa s USB konektorom (čierna)
+Malá vodná pumpa – vertikálna
+Hadička pre vodné pumpy 6.5 mm
+Relé modul 1 kanál 5V (s optočlenom)
+Kapacitný senzor vlhkosti pôdy
+Nepájivé pole (breadboard) 400 bodov
+Prepojovacie kábliky (65 ks, M-M)
+LED dióda 3 mm (žltá)

@@ -8,8 +8,8 @@
 #include <DHT.h>
 
 // ===== WIFI =====
-const char* ssid = "patovhrad";
-const char* password = "likavka124";
+const char* ssid = "patovhrad"; //meno vasej siete
+const char* password = "likavka124";  //heslo od vasej siete
 
 // ===== PINY =====
 const int sensorPin = 34;
